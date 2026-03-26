@@ -43,6 +43,7 @@ with sr.AudioFile(audio_file_path) as source:
         print(f"Could not request results from Google Speech Recognition service; {e}")
 ```
 # OUTPUT: 
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/2d3c80d4-51e3-459e-8e3e-f74255802506" />
 
 
 # RESULT: 
